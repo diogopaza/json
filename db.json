@@ -1,0 +1,38 @@
+{
+    "pessoas":[
+    {    
+        "id" : "1", 
+        "Nome" : "Diogo",
+         "Idade" : "34",
+          "Avatar" : "avatar.png"
+    },
+
+    {    
+        "id" : "2", 
+        "Nome" : "Beto",
+         "Idade" : "31",
+          "Avatar" : "avatar.png"
+    },
+
+    {    
+        "id" : "3", 
+        "Nome" : "Rodrigo",
+         "Idade" : "34",
+          "Avatar" : "avatar.png"
+    },
+
+    {    
+        "id" : "1", 
+        "Nome" : "Maria",
+         "Idade" : "23",
+          "Avatar" : "avatar.png"
+    }
+
+
+
+
+    ]
+
+
+
+}
